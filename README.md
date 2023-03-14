@@ -1,1 +1,0 @@
-# mahic-core
